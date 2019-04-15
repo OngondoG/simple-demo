@@ -1,2 +1,2 @@
-# simple-demo
-a test to know how to use git hub
+# simple-demo3
+This is just for training and love
